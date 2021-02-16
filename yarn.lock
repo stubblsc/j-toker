@@ -2141,9 +2141,9 @@ hawk@~6.0.2:
     hoek "4.x.x"
     sntp "2.x.x"
 
-highlight.js@^8.4.0:
-  version "8.9.1"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-8.9.1.tgz#b8a9c5493212a9392f0222b649c9611497ebfb88"
+highlight.js@^10.4.1:
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.4.1.tgz#d48fbcf4a9971c4361b3f95f302747afe19dbad0"
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -2473,9 +2473,9 @@ jquery.cookie@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/jquery.cookie/-/jquery.cookie-1.4.1.tgz#d63dce209eab691fe63316db08ca9e47e0f9385b"
 
-jquery@1.11.2:
-  version "1.11.2"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-1.11.2.tgz#30ab26857211c37caa83da0f6903155fe49bb72d"
+jquery@>1.11.2:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5"
 
 js-base64@^2.1.8:
   version "2.3.2"
